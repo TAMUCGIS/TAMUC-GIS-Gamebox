@@ -25,9 +25,11 @@ function Renderer:create()
 		for layer = 0,#self.drawers do
 			for draw = 0,#self.drawers[layer] do
 			local obj = self.drawer[layer][draw]
+			if obj ~= nil then
 			obj:draw()
-	
+		end
 	end
+end
 	
 	return renderer
 end
