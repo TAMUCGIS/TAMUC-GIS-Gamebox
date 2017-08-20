@@ -1,3 +1,4 @@
+local Renderer = require "tools/renderer"
 function love.load()
 
 
