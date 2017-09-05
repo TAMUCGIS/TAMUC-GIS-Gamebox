@@ -14,6 +14,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #include<QApplication>
+#include<QGraphicsScene>
+#include<QGraphicsRectItem>
+#include<QGraphicsView>
 /**/
 
 int main(int argc, char *argv[])
