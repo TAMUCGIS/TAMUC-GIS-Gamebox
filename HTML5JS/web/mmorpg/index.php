@@ -12,6 +12,9 @@ if(maintenance == 1){
 
 
 </head>
+<body>
+	
+</body>
 </html>
 <?php
 }
