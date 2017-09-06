@@ -7,3 +7,12 @@ if(maintenance == 1){
 }
 
 ?>
+<html>
+<head>
+
+
+</head>
+</html>
+<?php
+}
+?>
